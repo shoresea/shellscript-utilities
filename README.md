@@ -1,2 +1,2 @@
 # shellscript-utilities
-Shell Scripts utilities for random trivial tasks
+Shell Script utilities for random trivial tasks
